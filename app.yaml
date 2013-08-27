@@ -12,6 +12,8 @@ handlers:
   static_dir: libs
 - url: /intel-df
   static_dir: intel-df
+- url: /pmgmt
+  static_dir: pmgmt
 
 - url: .*
   script: main.app
