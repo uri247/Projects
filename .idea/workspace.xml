@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a69f336-e766-4b1d-94e6-ccd44dee7d0e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intel-df/Wdf013InterruptsDpcs.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intel-df/Wdf014Synchronization.pdf" />
+      <change type="DELETED" beforePath="C:\uri\Projects\pmgmt\ACPIspec40a.doc" afterPath="" />
+      <change type="DELETED" beforePath="C:\uri\Projects\pmgmt\Pow010.Introduction.pptx" afterPath="" />
+      <change type="DELETED" beforePath="C:\uri\Projects\pmgmt\Pow015.ACPI.Overview.pptx" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pmgmt/Wdf001Introduction.ppt" afterPath="$PROJECT_DIR$/pmgmt/Wdf001Introduction.ppt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pmgmt/index.html" afterPath="$PROJECT_DIR$/pmgmt/index.html" />
     </list>
     <ignored path="Projects.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="5a69f336-e766-4b1d-94e6-ccd44dee7d0e" time="1375588624179" ignored="false" />
+    <file path="/index.html" changelist="5a69f336-e766-4b1d-94e6-ccd44dee7d0e" time="1379416469896" ignored="false" />
     <file path="/app.yaml" changelist="5a69f336-e766-4b1d-94e6-ccd44dee7d0e" time="1374919078551" ignored="false" />
     <file path="/main.py" changelist="5a69f336-e766-4b1d-94e6-ccd44dee7d0e" time="1374918422235" ignored="false" />
     <file path="/Dummy.txt" changelist="5a69f336-e766-4b1d-94e6-ccd44dee7d0e" time="1379414064320" ignored="false" />
@@ -30,7 +33,26 @@
     <favorites_list name="Projects" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/intel-df/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="64" column="84" selection-start="2097" selection-end="2097" vertical-scroll-proportion="0.6660714">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pmgmt/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="10" selection-start="456" selection-end="456" vertical-scroll-proportion="-5.8846154">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -54,6 +76,7 @@
         <option value="$PROJECT_DIR$/app.yaml" />
         <option value="$PROJECT_DIR$/intel-df/index.html" />
         <option value="C:/t/facebook-urilondon/html/messages.htm" />
+        <option value="$PROJECT_DIR$/pmgmt/index.html" />
       </list>
     </option>
   </component>
@@ -117,7 +140,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="intel-df" />
+              <option name="myItemId" value="pmgmt" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -154,7 +177,7 @@
     <configuration default="false" name="index.html" type="JavascriptDebugSession" factoryName="Local" singleton="true" temporary="true">
       <JSDebuggerConfigurationSettings>
         <option name="engineId" value="embedded" />
-        <option name="fileUrl" value="file://$PROJECT_DIR$/intel-df/index.html" />
+        <option name="fileUrl" value="file://$PROJECT_DIR$/pmgmt/index.html" />
       </JSDebuggerConfigurationSettings>
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
@@ -226,8 +249,9 @@
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
     </list>
     <recent_temporary>
-      <list size="1">
+      <list size="2">
         <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -288,14 +312,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23214285" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23214285" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924107" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2494382" sideWeight="0.71777475" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17662753" sideWeight="0.76785713" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17662753" sideWeight="0.68303573" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3169643" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924107" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -441,16 +465,18 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intel-df/index.html">
+    <entry file="file://$PROJECT_DIR$/pmgmt/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="0" selection-start="1496" selection-end="1496" vertical-scroll-proportion="0.42946708">
+        <state line="18" column="10" selection-start="456" selection-end="456" vertical-scroll-proportion="-5.8846154">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/t/facebook-urilondon/html/messages.htm">
+    <entry file="file://$PROJECT_DIR$/intel-df/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="87" selection-start="2854" selection-end="2854" vertical-scroll-proportion="0.136" />
+        <state line="64" column="84" selection-start="2097" selection-end="2097" vertical-scroll-proportion="0.6660714">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
