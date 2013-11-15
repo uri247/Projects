@@ -1,4 +1,6 @@
 #.gitignore file
 
+.idea/workspace.xml
+
 *.pyc
 
