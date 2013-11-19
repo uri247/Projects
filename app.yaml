@@ -12,7 +12,7 @@ handlers:
   static_dir: libs
 - url: /intel-df
   static_dir: intel-df
-- url: /pmgmt
+- url: /pmgmt/
   static_dir: pmgmt
 
 - url: .*
