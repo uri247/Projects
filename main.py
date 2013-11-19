@@ -14,13 +14,22 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-import webapp2
 
-class MainHandler(webapp2.RequestHandler):
+from google.appengine.ext import webapp
+
+class PmgmtRedirHandler(webapp.RequestHandler):
     def get(self):
-        self.redirect('http://london.org.il');
-        #self.response.write('Hello world!')
+        self.redirect('/pmgmt/index.html')
 
-app = webapp2.WSGIApplication([
-    ('/', MainHandler)
+
+class MainHandler(webapp.RequestHandler):
+    def get(self):
+        self.redirect('http://london.org.il')
+
+
+
+app = webapp.WSGIApplication([
+    ('/', MainHandler),
+    ('/pmgmt', PmgmtRedirHandler),
+    #('/pmgmt/', PmgmtRedirHandler),
 ], debug=True)
